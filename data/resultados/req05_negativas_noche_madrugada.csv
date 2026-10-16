@@ -1,0 +1,13 @@
+franja_horaria,hora,negativas,total,pct_negativas,negativas_prom_por_dia
+Madrugada,0,3604,42589,8.46,6.6
+Madrugada,1,1628,14140,11.51,3.0
+Madrugada,2,730,3176,22.98,1.3
+Madrugada,3,553,1956,28.27,1.0
+Madrugada,4,705,2548,27.67,1.3
+Madrugada,5,920,5418,16.98,1.7
+Noche,18,44743,1018717,4.39,81.8
+Noche,19,38375,869708,4.41,70.2
+Noche,20,17284,389428,4.44,31.6
+Noche,21,13672,305677,4.47,25.0
+Noche,22,10148,222345,4.56,18.6
+Noche,23,5323,112635,4.73,9.7
