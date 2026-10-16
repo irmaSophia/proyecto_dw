@@ -1,0 +1,7 @@
+sk_canal,nombre,es_digital
+1,App,true
+2,Cajero,false
+3,Corresp,false
+4,POS,false
+5,Sucursal,false
+6,Web,true
